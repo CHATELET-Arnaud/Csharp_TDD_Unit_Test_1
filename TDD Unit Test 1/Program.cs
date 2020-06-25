@@ -4,23 +4,6 @@ namespace TDD_Unit_Test_1
 {
     class Program
     {
-        /*static void Main(string[] args)
-        {
-            int a = 1;
-            int b = 2;
-
-            int resultat = Addition(a, b);
-
-            if (resultat != 3)
-                Console.WriteLine("Le test a raté");
-            else
-                Console.WriteLine("Le test est OK");
-        }
-        
-        public static int Addition(int a, int b)
-        {
-            return a + b;
-        }*/
         static void Main(string[] args)
         {
             string phrase1 = "";
